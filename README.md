@@ -1,3 +1,4 @@
+
 # Grouping Selectors
 
 Let's build a little off the previous exercise. Here, you're going to give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles. Make sure you take a good look at the outcome image below to see exactly what is unique about each element, and what both elements have in common.
@@ -17,3 +18,7 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+# odin-03-grouping-selectors
+third odin exercise
+
